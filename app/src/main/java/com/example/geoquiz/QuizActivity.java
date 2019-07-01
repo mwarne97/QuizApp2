@@ -117,7 +117,7 @@ public class QuizActivity extends AppCompatActivity {
                 startActivityForResult(intention, REQUEST_CODE_CHEAT);
             }//End onClick
         });
-        
+
         if (mIsCheater) {
             disableCheatButton();
         }
