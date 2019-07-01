@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="next_button">Prochaine</string>
+    <string name="previous_button">Precedent</string>
+    <string name="false_button">Faux</string>
+    <string name="true_button">Vrai</string>
+    <string name="show_answer_button">" Montrer la Réponse"</string>
+    <string name="cheat_button">Tricher!</string>
+    <string name="judgement_toast">Tricher est Faux</string>
+    <string name="warning_text">Es-tu sûr de vouloir faire ça?</string>
+</resources>
